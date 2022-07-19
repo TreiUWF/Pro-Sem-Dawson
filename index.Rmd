@@ -1,5 +1,6 @@
 --- 
-title: "YOUR TITLE HERE"
+title: "An Example of Multinomial Logistic and Spline Regression: The Effect of Rain and Launching
+Rockets out of Cape Canaveral"
 author: "YOUR NAME HERE"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
